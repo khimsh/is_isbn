@@ -19,18 +19,12 @@ Is ISBN
      :alt: Updates
 
 
+Description
+-----------
 
-Checks if the provided string is valid ISBN.
-
-
-* Free software: MIT license
-* Documentation: https://is-isbn.readthedocs.io.
+**Is ISBN** provides a simple function to test if a given string is valid ISBN.
 
 
-Features
---------
-
-* TODO
 
 Credits
 -------
@@ -39,3 +33,7 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+
+* Free software: MIT license
+* Documentation: https://is-isbn.readthedocs.io.
