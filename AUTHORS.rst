@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Ia Khimshiashvili <i.khimsh@gmail.com>
+* Ia Khimshiashvili <https://github.com/khimsh>
 
 Contributors
 ------------

@@ -22,9 +22,52 @@ Is ISBN
 Description
 -----------
 
-**Is ISBN** provides a simple function to test if a given string is valid ISBN.
+**Is ISBN** provides a single function to test if a given string is valid ISBN.
 
 
+Installation
+------------
+
+
+::
+
+    pip install is-isbn
+
+
+With pipenv:
+::
+
+    pipenv install is-isbn
+
+
+Usage
+-----
+
+Import:
+::
+
+    from is_isbn.is_isbn import is_isbn
+
+
+Use:
+::
+
+    is_isbn('978-9941-445-51-4')
+
+
+or
+**
+
+Import:
+::
+
+    from is_isbn import is_isbn
+
+
+Use:
+::
+
+    is_isbn.is_isbn('978-9941-445-51-4')
 
 Credits
 -------
