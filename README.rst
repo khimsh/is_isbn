@@ -14,11 +14,6 @@ Is ISBN
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/khimsh/is_isbn/shield.svg
-     :target: https://pyup.io/repos/github/khimsh/is_isbn/
-     :alt: Updates
-
-
 Description
 -----------
 
